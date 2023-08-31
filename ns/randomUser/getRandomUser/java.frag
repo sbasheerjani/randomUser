@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">getRandomUser</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">Ly8gcGlwZWxpbmUgDQpJRGF0YUN1cnNvciBwaXBlbGluZUN1cnNvciA9IHBpcGVsaW5lLmdldEN1
+cnNvcigpOyANClN0cmluZwl1c2Vyc1tdID0gSURhdGFVdGlsLmdldFN0cmluZ0FycmF5KCBwaXBl
+bGluZUN1cnNvciwgInVzZXJzIiApOyANCnBpcGVsaW5lQ3Vyc29yLmRlc3Ryb3koKTsgDQoNClJh
+bmRvbSByYW5kb20gPSBuZXcgUmFuZG9tKCk7DQpTdHJpbmcgcmFuZG9tVXNlciA9IHVzZXJzW3Jh
+bmRvbS5uZXh0SW50KHVzZXJzLmxlbmd0aCldOw0KLy8gcGlwZWxpbmUgDQpJRGF0YUN1cnNvciBw
+aXBlbGluZUN1cnNvcl8xID0gcGlwZWxpbmUuZ2V0Q3Vyc29yKCk7IA0KSURhdGFVdGlsLnB1dCgg
+cGlwZWxpbmVDdXJzb3JfMSwgInJhbmRvbVVzZXIiLCByYW5kb21Vc2VyICk7IA0KcGlwZWxpbmVD
+dXJzb3JfMS5kZXN0cm95KCk7IA0KCQ==</value>
+</Values>
